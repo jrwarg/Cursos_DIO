@@ -9,3 +9,5 @@ JAVASCRIPT
     Modelo de árvore = possivel alterar qualquer elemento da página = modelo de objeto
 
 > Muito usado no desenvolvimento de páginas e aplicativos mobile hibridos (Android e IOS)
+
+> Tem TIPAGEM DINÂMICA => Não é preciso declarar os tipos antecipadamente..A linguagemm já "sabe" o tipo na declaração
