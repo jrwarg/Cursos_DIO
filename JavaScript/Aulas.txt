@@ -1,0 +1,11 @@
+JAVASCRIPT
+> Linguagem de script e multiplataforma
+    script = = Real Time (em tempo de execução)
+    multiplataforma = Sos diferentes
+> Client Side - É executado do lado do cliente(usuário) 
+
+> Tem capacidade de interagir com elementos de uma página HTML
+    Graças ao DOM  = Document Object Model
+    Modelo de árvore = possivel alterar qualquer elemento da página = modelo de objeto
+
+> Muito usado no desenvolvimento de páginas e aplicativos mobile hibridos (Android e IOS)
