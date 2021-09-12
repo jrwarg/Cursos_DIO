@@ -196,10 +196,15 @@ function print(){
 */
 
 // Argumento event
+=> pega o evento indicado antes(onkeydown neste caso...) e trabalha as categorias de 
+eventos apresentados
+
 const input = document.querySelector('input')
 input.onkeydown = function(event){
     console.log(event) // event.onkeydown, .currentTarget.value (pega o valor dentro do input...)
 }
+
+Verificar o prototype gerado no console.log para ver a lista de funcionalidades.
 
 
 
